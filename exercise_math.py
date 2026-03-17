@@ -16,7 +16,7 @@ def math():
     suma=a+b
     diferencia=a-b
     producto=a*b
-    promedio=(a+b)/2
+    promedio=suma/2
     cociente_entero=a//b
     resto_division_entera=a%b
     valor_real_division=a/b
