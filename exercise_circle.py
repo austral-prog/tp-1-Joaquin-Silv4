@@ -1,8 +1,8 @@
-    import math
-    from math import pi
+import math
+from math import pi
 
 
-    def circle():
+def circle():
     """
     Ejercicio 6 - Geometría de Círculo
 
