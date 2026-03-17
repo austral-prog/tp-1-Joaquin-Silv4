@@ -12,4 +12,3 @@ def rectangle():
     perimetro_rectangulo=2*base+2*altura
     print(area_rectangulo)
     print(perimetro_rectangulo)
-    
